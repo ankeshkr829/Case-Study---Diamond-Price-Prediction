@@ -1,1 +1,1 @@
-# Case-Study---Diamond-Price-Prediction
+Diamond-Price-Prediction
